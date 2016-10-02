@@ -1,15 +1,20 @@
-"fileHeader" {
+{
+  "file_header": {
 
-  "author": {
-    "name": "Danny Buonocore",
-    "company": "Cosmic Sky Games",
-    "website": "http://dannybuonocore.com"
-  },
+    "author": {
+      "name": "Danny Buonocore",
+      "company": "Cosmic Sky Games",
+      "website": "http://dannybuonocore.com"
+    },
 
-  "lineCharacter": "*",
-  "lineLength": "80",
+    "line_character": "*",
+    "line_length": 80,
 
-  "dateCreated": true,
-  "dateModified": false,
+    "padding_top": 0,
+    "padding_bottom": 0,
 
+    "date_created": true,
+    "date_modified": false
+
+  }
 }

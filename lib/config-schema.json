@@ -1,6 +1,8 @@
 {
   "file_header": {
 
+    "show_path": true,
+
     "author": {
       "name": "Danny Buonocore",
       "company": "Cosmic Sky Games",

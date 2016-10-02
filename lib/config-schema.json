@@ -1,0 +1,15 @@
+"fileHeader" {
+
+  "author": {
+    "name": "Danny Buonocore",
+    "company": "Cosmic Sky Games",
+    "website": "http://dannybuonocore.com"
+  },
+
+  "lineCharacter": "*",
+  "lineLength": "80",
+
+  "dateCreated": true,
+  "dateModified": false,
+
+}

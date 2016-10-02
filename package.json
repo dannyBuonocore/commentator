@@ -1,0 +1,19 @@
+{
+  "name": "commentator",
+  "main": "./lib/commentator",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "keywords": [],
+  "activationCommands": {
+    "atom-workspace": "commentator:header"
+  },
+  "repository": "https://github.com/atom/commentator",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "request": "^2.75.0"
+  }
+}

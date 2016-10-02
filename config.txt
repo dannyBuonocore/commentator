@@ -1,0 +1,16 @@
+- FILE_HEADER
+
+# Comment style
+line_separator *
+line_width 80
+padding_top 0
+padding_bottom 0
+
+# File information (comment to exclude)
+author Danny Buonocore
+company Cosmic Sky Games
+website http://dannybuonocore.com
+create_time
+modified_time
+
+- END

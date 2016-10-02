@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Insert header",
+        "command": "commentator:header"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "commentator",
+          "submenu": [
+            {
+              "label": "Insert header",
+              "command": "commentator:header"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

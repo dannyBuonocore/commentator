@@ -2,8 +2,12 @@
   "context-menu": {
     "atom-text-editor": [
       {
-        "label": "Insert header",
-        "command": "commentator:header"
+        "label": "File header",
+        "command": "commentator:fileHeader"
+      },
+      {
+        "label": "Function header",
+        "command": "commentator:funcHeader"
       }
     ]
   },
@@ -12,11 +16,15 @@
       "label": "Packages",
       "submenu": [
         {
-          "label": "commentator",
+          "label": "Commentator",
           "submenu": [
             {
-              "label": "Insert header",
-              "command": "commentator:header"
+              "label": "File header",
+              "command": "commentator:fileHeader"
+            },
+            {
+              "label": "Function header",
+              "command": "commentator:funcHeader"
             }
           ]
         }

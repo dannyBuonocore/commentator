@@ -5,7 +5,7 @@
   "description": "A short description of your package",
   "keywords": [],
   "activationCommands": {
-    "atom-workspace": "commentator:header"
+    "atom-workspace": ["commentator:funcHeader", "commentator:fileHeader"]
   },
   "repository": "https://github.com/atom/commentator",
   "license": "MIT",

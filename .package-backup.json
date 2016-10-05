@@ -4,6 +4,9 @@
   "version": "0.0.0",
   "description": "A short description of your package",
   "keywords": [],
+  "activationCommands": {
+    "atom-workspace": ["commentator:funcHeader", "commentator:fileHeader", "commentator:onEnter"]
+  },
   "repository": "https://github.com/atom/commentator",
   "license": "MIT",
   "engines": {

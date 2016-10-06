@@ -1,6 +1,6 @@
 {
   "atom-workspace": {
     "alt-q": "commentator:fileHeader",
-    "/": "commentator:slashPressed"
+    "shift-enter": "commentator:enterPressed"
   }
 }
